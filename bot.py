@@ -53,8 +53,8 @@ def main():
     
         api.update_status(lien)
 
-        print("Waiting for one hour.")
-        time.sleep(3600)
+        print("Waiting for six hours.")
+        time.sleep(3600*6)
 
 if __name__ == "__main__":
     main()
