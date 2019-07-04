@@ -3,3 +3,4 @@ api*
 *.ods
 nohup.out
 tags
+.venv/
